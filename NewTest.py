@@ -2,7 +2,7 @@ print("Hello World")
 a = "Welcome to Hello World!!"
 
 """
-Create a new file name FindSencodNumber.py
+Create a new file name FindSecodNumber.py
 problem statement:
 
 Write a Python function find_second_largest(numbers) that takes a list of distinct integers as input and returns the second largest number in that list.
