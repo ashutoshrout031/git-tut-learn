@@ -17,6 +17,6 @@ for i in n:
 
 print(smallest_n)
 print(largest_n)
-print(second_largest_n)
+
 
 
